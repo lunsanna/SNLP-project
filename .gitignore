@@ -1,4 +1,4 @@
 apikey.json
 .ipynb_checkpoints/
 .DS_Store
-data/recipedata-grouped.csv
+*.csv
