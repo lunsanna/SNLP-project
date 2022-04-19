@@ -2,3 +2,4 @@ apikey.json
 .ipynb_checkpoints/
 .DS_Store
 *.csv
+model/
