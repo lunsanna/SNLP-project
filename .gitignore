@@ -3,3 +3,4 @@ apikey.json
 .DS_Store
 *.csv
 model/
+recipe_bert_tokenizer/
