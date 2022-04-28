@@ -1,0 +1,11 @@
+,budget vegan curry <mask> rice,vegan <mask> soup,quick one pot <mask> pasta,vegetarian <mask> fried rice,asian <mask> soup noodles,quick and easy <mask> fried noodles,quick vegan <mask> pasta,cheap dairy-free <mask> soup,gluten-free <mask> cheesecake,quick vegetarian <mask> salad with mozzarella,vegetarian creamy <mask> pasta,cheap vegetarian <mask> pasta,gluten-free tomato <mask> pasta
+0, , , , , , , , , , , , , 
+1, and, and, and, and, and, the, and, and, and, and, and, and, and
+2, the,;, the, the,;,;,;,;,;,;, the,;,;
+3, to, to,;,;, the, and, the, the, the, the,;, the, the
+4, a, a, to, to, a, to, a, a, to, to, to, to, with
+5, with, the, a, with, to, a, to, to, a, a, a, a, to
+6,;, of, of, a, of, with, with, of, of, with, with, with, a
+7, of,<pad>, with, of,<pad>,<pad>, of, with, with, of, of, of, of
+8,<pad>, with,<pad>,<pad>, with, of,<pad>, recipe,<pad>,<pad>,<pad>,<pad>,<pad>
+9, in,  , for,  ,  , for, for,<pad>, recipe, for,  , for, in
